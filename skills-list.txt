@@ -1,0 +1,7 @@
+final-exam-review
+research-vault-literature-retrieval
+wrong-question-book
+xujunjie-wrong-question-book
+zotero-analytical-writer
+zotero-collection-manager
+zotero-data-fetcher
